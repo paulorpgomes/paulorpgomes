@@ -5,7 +5,7 @@
 
 <div align="center" style="margin-bottom:100px">
 <img width=48% height=200cm align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=paulorpgomes&theme=dracula&mode=weekly" />
-<img width=40% height=200cm align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorpgomes&show_icons=true&theme=dracula&layout=compact" />
+<img width=40% height=180cm align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulorpgomes&show_icons=true&theme=dracula&layout=compact" />
 </div>
  
 &nbsp;

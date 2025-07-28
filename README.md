@@ -1,9 +1,3 @@
-<div align="center">
-  <img height="80" src="https://media.tenor.com/drxH1lO9cfEAAAAj/dark-souls-bonfire.gif"  />
-</div>
-
-###
-
 <h1 align="center">hey there 👋</h1>
 
 ###
@@ -33,7 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=paulorpgomes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=paulorpgomes&theme=dark&card_height=150)"  />
 </div>
 
 ###
